@@ -5,7 +5,7 @@
 This application predicts the likelihood of heart disease based on various medical parameters. It leverages machine learning to provide early detection and help in preventive healthcare.
 ## Live Demo
 
-You can check out the live version of the project [here](https://heartpredict.streamlit.app/).
+You can check out the live version of the project [here](https://heartdiseaseprediction-49.streamlit.app/).
 
 
 
