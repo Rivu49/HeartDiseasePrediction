@@ -30,10 +30,7 @@ X_train, X_test, y_train, y_test = train_test_split(features_scaled, target, tes
 # Train models
 models = {
     "Logistic Regression": LogisticRegression(max_iter=1000),
-    "Decision Tree": DecisionTreeClassifier(),
     "Random Forest": RandomForestClassifier(),
-    "AdaBoost": AdaBoostClassifier(),
-    "Gradient Boosting": GradientBoostingClassifier(),
     "K-Nearest Neighbors": KNeighborsClassifier(),
 }
 
