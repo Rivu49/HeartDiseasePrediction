@@ -19,7 +19,7 @@ You can check out the live version of the project [here](https://heartdiseasepre
 ## Key Features
 
 - Interactive web interface for entering medical parameters.
-- Uses a RandomForestClassifier for predictions.
+- Uses RandomForestClassifier, Logistic Regression, K-Nearest Neighbour algorithms for predictions.
 - Provides accuracy and a detailed classification report for the model.
 
 ## Installation
